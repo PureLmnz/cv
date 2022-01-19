@@ -1,0 +1,19 @@
+img{
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  border-radius: 50%;
+}
+body{
+  background-color: antiqueWhite;
+  color: darkSlateGrey;
+  font-family: fantasy;
+}
+h1{
+color: seaGreen;
+}
+
+strong{color: midnightBlue;
+  text-transform: uppercase;
+
+}
